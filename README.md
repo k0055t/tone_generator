@@ -1,0 +1,1 @@
+Aplikace slouží k měření absorbce hluku v závislosti na frekvenci pomocí počítače, bluetooth reproduktoru a mobilu. Skládá se z části serveru, který generuje tóny o určité frakvenci a zapisuje data z klientské části mobilní aplikace, která měří hlasitost mikrofonem a odesílá tato data přes bluetooth.
